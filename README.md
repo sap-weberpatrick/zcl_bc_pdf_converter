@@ -4,6 +4,8 @@ Both, PDF source file and resulting image file are stored temporary on applicati
 
 # Prerequisit
 Use transaction SM69 to define a system command Z_PDFTOPPM
+![image](https://github.com/sap-weberpatrick/zcl_bc_pdf_converter/assets/26644498/c49cd363-955a-426d-a169-350bac343170)
+
 # Usage
 ```
 data: lv_data type xstring,
